@@ -6,3 +6,10 @@
 *.csproj
 *.unityproj
 *.sln
+
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
